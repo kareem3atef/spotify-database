@@ -2,8 +2,6 @@
 
 Kareem Atef
 
-Video overview: <URL HERE>
-
 ## Scope
 
 
